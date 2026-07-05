@@ -1,20 +1,32 @@
 class Solution {
     public int countNegatives(int[][] grid) {
-        
-
         int row = grid.length;
         int col = grid[0].length;
-        int ans = 0;
+        int count=0;
+        
 
-        int c = 0;
-        int r = row - 1; //start from bottom of the row 
+        for(int[] roww : grid){
+            int ans = roww.length;
+            int findneg = find(roww);
+            count = count + (col - findneg);
+        }
+        return count;
+    }
+    public int find(int[] roww){
+        int left = 0;
+        int right = roww.length -1;
+        int ans = roww.length;
 
-        while(r >= 0 && c < col){
-            if(grid[r][c] < 0){
-                ans = ans + (col - c);
-                r--;
+        while(left <=right){
+
+            int mid = left + (right - left) /2;
+
+            if(roww[mid] < 0){
+                ans = mid;
+                right = mid - 1;
+
             }else{
-                c++;
+left = mid + 1;
             }
         }
         return ans;
