@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Pruthviraj141/DSA-Daily/tree/master/0074-search-a-2d-matrix) |
+| [0222-count-complete-tree-nodes](https://github.com/Pruthviraj141/DSA-Daily/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pruthviraj141/DSA-Daily/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Pruthviraj141/DSA-Daily/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pruthviraj141/DSA-Daily/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pruthviraj141/DSA-Daily/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/Pruthviraj141/DSA-Daily/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Pruthviraj141/DSA-Daily/tree/main/0226-invert-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Pruthviraj141/DSA-Daily/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pruthviraj141/DSA-Daily/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pruthviraj141/DSA-Daily/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/Pruthviraj141/DSA-Daily/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Pruthviraj141/DSA-Daily/tree/main/0226-invert-binary-tree/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -78,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pruthviraj141/DSA-Daily/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Pruthviraj141/DSA-Daily/tree/main/0222-count-complete-tree-nodes/) | Easy |
 <!---LeetCode Topics End-->
