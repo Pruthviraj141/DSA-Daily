@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Pruthviraj141/DSA-Daily/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Pruthviraj141/DSA-Daily/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pruthviraj141/DSA-Daily/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pruthviraj141/DSA-Daily/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Pruthviraj141/DSA-Daily/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Pruthviraj141/DSA-Daily/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/Pruthviraj141/DSA-Daily/tree/main/0867-transpose-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pruthviraj141/DSA-Daily/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Pruthviraj141/DSA-Daily/tree/main/0054-spiral-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/Pruthviraj141/DSA-Daily/tree/main/0867-transpose-matrix/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
