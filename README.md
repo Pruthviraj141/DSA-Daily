@@ -99,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Pruthviraj141/DSA-Daily/tree/main/0222-count-complete-tree-nodes/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0521-longest-uncommon-subsequence-i](https://github.com/Pruthviraj141/DSA-Daily/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
 <!---LeetCode Topics End-->
