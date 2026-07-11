@@ -102,5 +102,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0520-detect-capital](https://github.com/Pruthviraj141/DSA-Daily/tree/main/0520-detect-capital/) | Easy |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Pruthviraj141/DSA-Daily/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
 <!---LeetCode Topics End-->
