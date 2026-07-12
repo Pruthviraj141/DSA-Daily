@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pruthviraj141/DSA-Daily/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Pruthviraj141/DSA-Daily/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pruthviraj141/DSA-Daily/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2942-find-words-containing-character](https://github.com/Pruthviraj141/DSA-Daily/tree/main/2942-find-words-containing-character/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0520-detect-capital](https://github.com/Pruthviraj141/DSA-Daily/tree/main/0520-detect-capital/) | Easy |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Pruthviraj141/DSA-Daily/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
+| [2942-find-words-containing-character](https://github.com/Pruthviraj141/DSA-Daily/tree/main/2942-find-words-containing-character/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
