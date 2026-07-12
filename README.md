@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Pruthviraj141/DSA-Daily/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Pruthviraj141/DSA-Daily/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0867-transpose-matrix](https://github.com/Pruthviraj141/DSA-Daily/tree/main/0867-transpose-matrix/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/Pruthviraj141/DSA-Daily/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pruthviraj141/DSA-Daily/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Pruthviraj141/DSA-Daily/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Math
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pruthviraj141/DSA-Daily/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/Pruthviraj141/DSA-Daily/tree/main/1331-rank-transform-of-an-array/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0520-detect-capital](https://github.com/Pruthviraj141/DSA-Daily/tree/main/0520-detect-capital/) | Easy |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Pruthviraj141/DSA-Daily/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/Pruthviraj141/DSA-Daily/tree/main/1331-rank-transform-of-an-array/) | Easy |
 <!---LeetCode Topics End-->
