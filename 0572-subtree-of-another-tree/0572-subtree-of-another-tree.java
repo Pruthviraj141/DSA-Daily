@@ -14,24 +14,33 @@
  * }
  */
 class Solution {
-    public String pre(TreeNode root){
-        if(root==null){
-            return "null";
+    
+    public boolean same(TreeNode root, TreeNode sub){
+
+
+            if(root == null && sub == null){
+                return true;
+            }
+
+            if(root == null || sub == null){
+                return false;
+            }
+
+            if(root.val != sub.val){
+                return false;
+            }
+
+            return same(root.left,sub.left) && same(root.right,sub.right); 
+
+
         }
-
-        StringBuilder sb  = new StringBuilder("^");
-        sb.append(root.val);
-        sb.append(pre(root.left));
-        sb.append(pre(root.right));
-
-        return  sb.toString();
-
-    }
     public boolean isSubtree(TreeNode root, TreeNode subRoot) {
-        
-        String full = pre(root);
-        String sub = pre(subRoot);
-        return full.contains(sub);
-
+        if(root == null){
+            return false;
+        }
+        if(same(root,subRoot)){
+            return true;
+        }
+        return isSubtree(root.left,subRoot) || isSubtree(root.right ,subRoot);
     }
 }
