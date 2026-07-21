@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/Pruthviraj141/DSA-Daily/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Pruthviraj141/DSA-Daily/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Pruthviraj141/DSA-Daily/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Pruthviraj141/DSA-Daily/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/Pruthviraj141/DSA-Daily/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Pruthviraj141/DSA-Daily/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Pruthviraj141/DSA-Daily/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Pruthviraj141/DSA-Daily/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/Pruthviraj141/DSA-Daily/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Pruthviraj141/DSA-Daily/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Pruthviraj141/DSA-Daily/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Pruthviraj141/DSA-Daily/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
