@@ -134,4 +134,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0746-min-cost-climbing-stairs](https://github.com/Pruthviraj141/DSA-Daily/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/Pruthviraj141/DSA-Daily/tree/main/0933-number-of-recent-calls/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/Pruthviraj141/DSA-Daily/tree/main/0933-number-of-recent-calls/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/Pruthviraj141/DSA-Daily/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
