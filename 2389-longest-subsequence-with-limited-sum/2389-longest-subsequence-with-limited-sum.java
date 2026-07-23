@@ -21,6 +21,8 @@ class Solution {
             for(int j = 0; j<nums.length; j++){
                 if(q[i] >= n[j]){
                     count++;
+                }else{
+                    break;
                 }
             }
             ans[c++] = count;
