@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Pruthviraj141/DSA-Daily/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [2485-find-the-pivot-integer](https://github.com/Pruthviraj141/DSA-Daily/tree/main/2485-find-the-pivot-integer/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,4 +158,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Pruthviraj141/DSA-Daily/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
+| [2485-find-the-pivot-integer](https://github.com/Pruthviraj141/DSA-Daily/tree/main/2485-find-the-pivot-integer/) | Easy |
 <!---LeetCode Topics End-->
